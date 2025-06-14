@@ -1,0 +1,13 @@
+{
+  "name": "siege-league-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "nodemailer": "^6.9.0",
+    "express": "^4.18.2"
+  }
+}
